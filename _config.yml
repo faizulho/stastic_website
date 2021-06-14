@@ -1,9 +1,11 @@
 title: '#ImMuhdFaizul Blog '
-description: A bold typographic theme inspired by Swiss design (Swiss Jekyll Theme)
+description: >-
+  Muhammad Faizul's blog using bold typographic theme inspired by Swiss design
+  (Swiss Jekyll Theme).
 social_link: twitter
-social_username: immuhdfaizul
+social_username: '@immuhdfaizul'
 github_repo: athena
-github_username: broccolini
+github_username: faizulho
 theme_color: black
 remote_theme: internet-de-france/swiss
 baseurl: /stastic_website
